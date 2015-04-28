@@ -1,0 +1,1 @@
+Kionix KXPS5 Series library for 3 axis accelerometer (-/+ 6g)
